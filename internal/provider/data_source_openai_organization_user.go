@@ -7,7 +7,7 @@ import (
 	"github.com/hashicorp/terraform-plugin-log/tflog"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/diag"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
-	"github.com/mkdev-me/terraform-provider-openai/internal/client"
+	"github.com/canva/terraform-provider-openai/internal/client"
 )
 
 // dataSourceOpenAIOrganizationUser returns a schema.Resource that represents a data source for a specific OpenAI organization user.

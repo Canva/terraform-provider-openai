@@ -5,7 +5,7 @@ package main
 
 import (
 	"github.com/hashicorp/terraform-plugin-sdk/v2/plugin"
-	"github.com/mkdev-me/terraform-provider-openai/internal/provider"
+	"github.com/canva/terraform-provider-openai/internal/provider"
 )
 
 // main is the entry point for the Terraform provider.
